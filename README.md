@@ -1,3 +1,4 @@
 # git_practice
-Na
+First Github Repository
+br
 author -Manasi Nikam
